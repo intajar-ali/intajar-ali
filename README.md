@@ -83,7 +83,7 @@ const philosophy = {
 
 ### **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git,azure" />
 
 ### **E-commerce & Tools**
 
