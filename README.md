@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="50%" height="50px">
+<td width="50%" height="500px">
 
 ### 🚀 **Professional Journey**
 
