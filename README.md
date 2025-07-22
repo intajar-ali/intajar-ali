@@ -1,307 +1,280 @@
-# 👋 Hello, I'm **Intajar Ali**
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Senior+Full-Stack+%26+DevOps+Engineer;11%2B+Years+in+Node.js%2C+AWS%2C+Shopify;Transforming+Ideas+into+Scalable+Solutions)](https://git.io/typing-svg)
+# 👋 Hello, I'm **Intajar Ali**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Senior+Full-Stack+%26+DevOps+Engineer;11%2B+Years+%7C+Node.js+%7C+AWS+%7C+Shopify;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-<br/>
-
 ---
 
 <br/>
-
-## 🚀 **About Me**
-
-I'm a seasoned **Full-Stack Developer** and **DevOps Engineer** with over **11 years** of hands-on experience in building, deploying, and scaling robust software solutions. My expertise spans the entire development lifecycle, from modern front-end and back-end web/app development to comprehensive cloud infrastructure management and e-commerce specialization.
-
-<br/>
-
-I excel at transforming complex ideas into efficient, high-performance applications. My core strength lies in **bridging the gap between development and operations**, ensuring seamless CI/CD pipelines, reliable deployments, and optimized system performance.
-
-<br/>
-
----
-
-<br/>
-
-## 💼 **Core Expertise**
 
 <div align="center">
 
+## 🎯 **About Me**
+
+</div>
+
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
-### 🌐 **Full-Stack Development**
-Crafting dynamic web and mobile applications with React, React Native, focusing on clean code, UX, and scalability
+### 🚀 **Professional Journey**
 
-</td>
-<td align="center" width="50%">
+I'm a **Senior Full-Stack Developer** and **DevOps Engineer** with **11+ years** of expertise in crafting scalable digital solutions. My passion lies in transforming complex business requirements into elegant, high-performance applications.
 
-### ⚡ **Node.js Development**
-Architecting high-performance APIs, microservices, and back-end systems with modern JavaScript/TypeScript
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### ☁️ **DevOps & Cloud Engineering**
-Designing scalable AWS infrastructure, Docker containerization, and load balancing for optimal performance
+**What drives me:**
+- 🎨 Creating seamless user experiences
+- ⚡ Optimizing system performance
+- 🔧 Building robust infrastructure
+- 📈 Scaling applications efficiently
 
 </td>
-<td align="center">
+<td width="50%">
 
-### 🛒 **Shopify & E-commerce**
-Custom Shopify themes, app integrations, and bespoke e-commerce solutions that drive sales
+### 💡 **Core Philosophy**
 
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
+```typescript
+const philosophy = {
+  code: "Clean, maintainable, scalable",
+  approach: "Problem-solving first",
+  mindset: "Continuous learning",
+  goal: "Exceptional user experience"
+};
+```
 
-### ✅ **Software Development Lifecycle**
-End-to-end development expertise, ensuring quality from conception to deployment
+**Key Strengths:**
+- 🌉 Bridging Dev & Ops seamlessly
+- 🎯 End-to-end solution architecture
+- 🤝 Cross-functional team leadership
+- 🔄 Agile development practices
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br/>
-
 ---
 
 <br/>
 
-## 🛠️ **Technology Stack**
+<div align="center">
+
+## 🛠️ **Technology Ecosystem**
+
+</div>
 
 <div align="center">
 
-<br/>
+### **Frontend Arsenal**
 
-### **Frontend Technologies**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nextjs,vite" />
 
 ### **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,redis,graphql,prisma" />
 
 ### **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git" />
 
 ### **E-commerce & Tools**
 
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/-Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=shopify,figma,vscode,postman,github,gitlab,vercel,netlify" />
 
 </div>
-
-<br/>
 
 ---
 
 <br/>
+
+<div align="center">
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
-
-<br/>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br/>
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
-<br/>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" />
+
+</div>
 
 ---
 
 <br/>
 
-## 🏆 **Professional Achievements**
-
 <div align="center">
 
-<br/>
+## 🏆 **Professional Impact**
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Experience-11%2B%20Years-brightgreen?style=for-the-badge&logo=calendar&logoColor=white"/>
-<br/><strong>Years of Experience</strong>
+<img src="https://img.shields.io/badge/Experience-11%2B_Years-00D9FF?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0D1117"/>
+<br/><sub><b>Years of Excellence</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Projects-200%2B-blue?style=for-the-badge&logo=rocket&logoColor=white"/>
-<br/><strong>Projects Delivered</strong>
+<img src="https://img.shields.io/badge/Projects-200%2B-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117"/>
+<br/><sub><b>Successful Deliveries</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Deployments-150%2B-orange?style=for-the-badge&logo=aws&logoColor=white"/>
-<br/><strong>Cloud Deployments</strong>
+<img src="https://img.shields.io/badge/Cloud_Deployments-150%2B-4CAF50?style=for-the-badge&logo=aws&logoColor=white&labelColor=0D1117"/>
+<br/><sub><b>Infrastructure Solutions</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/E--commerce-50%2B-purple?style=for-the-badge&logo=shopify&logoColor=white"/>
-<br/><strong>E-commerce Solutions</strong>
+<img src="https://img.shields.io/badge/E--commerce-50%2B-9C27B0?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0D1117"/>
+<br/><sub><b>Online Stores Built</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/APIs-300%2B-red?style=for-the-badge&logo=api&logoColor=white"/>
-<br/><strong>API Integrations</strong>
+<img src="https://img.shields.io/badge/API_Integrations-300%2B-FF9800?style=for-the-badge&logo=api&logoColor=white&labelColor=0D1117"/>
+<br/><sub><b>System Connections</b></sub>
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/>
-
 ---
 
 <br/>
 
-## 💻 **What I Bring to Your Project**
-
 <div align="center">
 
-<br/>
-
-```javascript
-const intajarAli = {
-    role: "Senior Full-Stack & DevOps Engineer",
-    experience: "11+ Years",
-    location: "Available Worldwide",
-    
-    expertise: {
-        frontend: [
-            "React", "React Native", "TypeScript", 
-            "JavaScript", "HTML5", "CSS3", "Tailwind CSS"
-        ],
-        backend: [
-            "Node.js", "Express.js", "NestJS", 
-            "API Development", "Microservices", "GraphQL"
-        ],
-        databases: [
-            "MongoDB", "PostgreSQL", "Redis", 
-            "MySQL", "DynamoDB"
-        ],
-        cloud: [
-            "AWS", "Docker", "Kubernetes", 
-            "Load Balancing", "Auto Scaling"
-        ],
-        ecommerce: [
-            "Shopify", "Custom Themes", "Liquid", 
-            "App Integration", "Payment Gateways"
-        ],
-        devops: [
-            "CI/CD", "Infrastructure as Code", 
-            "Monitoring", "Jenkins", "GitHub Actions"
-        ]
-    },
-    
-    principles: {
-        codeQuality: "Clean, maintainable, and scalable architecture",
-        problemSolving: "Analytical thinking with innovative solutions",
-        collaboration: "Team leadership with mentoring capabilities",
-        learning: "Continuous improvement and tech adaptation"
-    },
-    
-    currentFocus: [
-        "Cloud-native applications",
-        "Serverless architectures", 
-        "Performance optimization",
-        "Team leadership"
-    ],
-    
-    passion: "Transforming complex business requirements into elegant technical solutions 🚀"
-};
-
-console.log("Ready to build something amazing together!");
-```
+## 💼 **Service Portfolio**
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## 🌟 **Services I Offer**
-
-<div align="center">
-
-<br/>
-
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🔧 **Development Services**
-- Full-Stack Web Applications
-- Mobile App Development
-- API Design & Development
-- Database Architecture
-- Code Reviews & Optimization
+### 🎨 **Frontend Development**
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**Modern Web Applications**
+- React & Next.js Development
+- TypeScript Implementation
+- Responsive UI/UX Design
+- Performance Optimization
+- Progressive Web Apps
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
+
+### ⚡ **Backend Engineering**
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Scalable Server Solutions**
+- Node.js & Express APIs
+- Microservices Architecture
+- Database Design & Optimization
+- Real-time Applications
+- GraphQL Implementation
+
+</td>
+<td width="33%" align="center">
 
 ### ☁️ **DevOps & Cloud**
-- AWS Infrastructure Setup
-- CI/CD Pipeline Implementation
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100">
+
+**Infrastructure Excellence**
+- AWS Cloud Architecture
 - Docker & Kubernetes
-- Performance Monitoring
-- Security Best Practices
+- CI/CD Pipeline Setup
+- Monitoring & Logging
+- Security Implementation
 
 </td>
-<td align="center" width="33%">
+</tr>
+</table>
 
-### 🛍️ **E-commerce Solutions**
-- Custom Shopify Development
-- Theme Customization
-- App Integration
-- Payment Gateway Setup
-- Performance Optimization
+---
+
+<br/>
+
+<div align="center">
+
+## 🎯 **Current Focus Areas**
+
+</div>
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Intajar Ali))
+    Cloud Native
+      Serverless Architecture
+      Microservices
+      Container Orchestration
+    AI Integration
+      Machine Learning APIs
+      Intelligent Automation
+      Data Analytics
+    E-commerce Innovation
+      Headless Commerce
+      Payment Solutions
+      Performance Optimization
+    Team Leadership
+      Technical Mentoring
+      Code Reviews
+      Best Practices
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**🔹 Serverless & Edge Computing** | **🔹 AI/ML Integration** | **🔹 Headless E-commerce**  
+**🔹 Performance Engineering** | **🔹 Team Leadership** | **🔹 Technical Architecture**
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🌟 **Let's Build Something Amazing**
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 📬 **Get In Touch**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
+</td>
+<td align="center">
+
+### 💼 **Collaboration**
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Calendly](https://img.shields.io/badge/Schedule_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/your-calendly)
 
 </td>
 </tr>
@@ -311,89 +284,53 @@ console.log("Ready to build something amazing together!");
 
 <br/>
 
----
-
-<br/>
-
-## 📈 **Current Focus Areas**
-
 <div align="center">
 
-<br/>
+### 🚀 **Available For**
 
-🔹 **Microservices Architecture** - Building scalable, distributed systems  
-🔹 **Cloud-Native Development** - Leveraging AWS services for optimal performance  
-🔹 **DevOps Automation** - Streamlining deployment and monitoring processes  
-🔹 **E-commerce Innovation** - Creating cutting-edge shopping experiences  
-🔹 **Team Leadership** - Mentoring developers and driving technical excellence  
+**Full-time Opportunities** • **Contract Projects** • **Technical Consulting**  
+**Architecture Reviews** • **Team Mentoring** • **Code Audits**
 
 </div>
 
-<br/>
-
 ---
 
 <br/>
 
-## 📫 **Let's Connect & Collaborate**
-
 <div align="center">
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
-
-<br/>
-
-### 💼 **Open for Opportunities**
-
-🔸 **Full-time Positions** | 🔸 **Contract Projects** | 🔸 **Technical Consulting**  
-🔸 **Code Reviews** | 🔸 **Architecture Planning** | 🔸 **Team Mentoring**
+## 🎮 **Beyond Code**
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## 🎯 **Fun Facts**
-
 <div align="center">
 
-<br/>
-
-```typescript
-interface Developer {
-    name: string;
-    coffee: boolean;
-    debugging: "always" | "never";
-    learning: string[];
-}
-
-const me: Developer = {
-    name: "Intajar Ali",
-    coffee: true, // ☕ Fuel for coding
-    debugging: "always", // 🐛 Bug hunter by nature
-    learning: ["AI/ML", "Blockchain", "Cloud Architecture"] // 📚 Never stop learning
-};
-```
-
-<br/>
-
-🌱 Currently exploring **AI/ML integration** in web applications  
-🎮 Gaming enthusiast and tech blogger in spare time  
-🌍 Love connecting with developers worldwide  
-📚 Passionate about sharing knowledge and mentoring  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌱 **Currently Learning**
+- **AI/ML Integration** in web apps
+- **Blockchain** development
+- **Edge Computing** solutions
+- **Advanced Kubernetes** patterns
+
+</td>
+<td width="50%" align="center">
+
+### 🎯 **Personal Interests**
+- **🎮 Gaming** & tech reviews
+- **📚 Technical Writing** & blogging
+- **🌍 Open Source** contributions
+- **🤝 Developer Community** building
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -401,25 +338,36 @@ const me: Developer = {
 
 <div align="center">
 
-### 🤝 **Ready to Build Something Amazing Together?**
+### 💭 **Developer Wisdom**
 
-**Let's discuss how my 11+ years of experience can drive your next project to success!**
-
-<br/>
-
-<sub>⭐ **Star some repositories if you find them interesting!** ⭐</sub>
+*"The best code is not just functional—it's elegant, maintainable, and tells a story."*
 
 <br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
 
 ---
 
 <br/>
 
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### 🤝 **Ready to Transform Your Ideas into Reality?**
+
+**Let's discuss how my 11+ years of expertise can accelerate your next project!**
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/YourGitHubUsername)
+[![Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/YourGitHubUsername?tab=followers)
+[![Stars](https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/YourGitHubUsername?tab=repositories)
+
+<br/>
+
+⭐ **Star some repositories if you find them interesting!** ⭐
 
 </div>
