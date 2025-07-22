@@ -22,11 +22,13 @@
 
 <table>
 <tr>
-<td width="50%" height="500px">
+<td width="50%">
 
 ### 🚀 **Professional Journey**
 
-I'm a **Senior Full-Stack Developer** and **DevOps Engineer** with **11+ years** of expertise in crafting scalable digital solutions. My passion lies in transforming complex business requirements into elegant, high-performance applications.
+**I'm a Senior Full-Stack Developer and DevOps Engineer with 11+ years of expertise in crafting scalable digital solutions. My passion lies in transforming complex business requirements into elegant, high-performance applications.**
+
+<br/>
 
 **What drives me:**
 - 🎨 Creating seamless user experiences
@@ -47,6 +49,8 @@ const philosophy = {
   goal: "Exceptional user experience"
 };
 ```
+
+<br/>
 
 **Key Strengths:**
 - 🌉 Bridging Dev & Ops seamlessly
