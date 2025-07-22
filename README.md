@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Senior+Full-Stack+%26+DevOps+Engineer;11%2B+Years+%7C+Node.js+%7C+AWS+%7C+Shopify;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
 
 <br/>
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
