@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm **Intajar Ali**
+# 👋 Hello, I'm **INTAJAR ALI**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Senior+Full-Stack+%26+DevOps+Engineer;11%2B+Years+in+Node.js%2C+AWS%2C+Shopify;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
