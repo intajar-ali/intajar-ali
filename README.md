@@ -28,10 +28,6 @@
 
 **I'm a Senior Full-Stack Developer and DevOps Engineer with 11+ years of expertise in crafting scalable digital solutions. My passion lies in transforming complex business requirements into elegant, high-performance applications.**
 
-
-<br/>
-<br/>
-
 **What drives me:**
 - 🎨 Creating seamless user experiences
 - ⚡ Optimizing system performance
