@@ -87,7 +87,13 @@ const philosophy = {
 
 ### **E-commerce & Tools**
 
-<img src="https://skillicons.dev/icons?i=shopify,figma,vscode,postman,github,gitlab,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman,github,gitlab,vercel,netlify" />
+
+<br/>
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 </div>
 
