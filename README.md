@@ -6,8 +6,8 @@
 <div align="center">
 
 **Senior Full-Stack & DevOps Engineer**  
-11+ Years in Node.js, AWS, Shopify  
-Building Scalable Digital Solutions
+**11+ Years in Node.js, AWS, Shopify**
+**Building Scalable Digital Solutions**
 
 </div>
 
