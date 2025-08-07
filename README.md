@@ -47,7 +47,7 @@
 
 #### 🛒 **E-Commerce Microservices Platform**
 
-<img src="https://drive.google.com/file/d/1OqHZ-wInkEXKg8i8oN8MIwrosd6UH6Ew/view"/>
+<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544227/mass_1_yjuo1v.png" width="100%" alt="E-Commerce Platform"/>
 
 **🎯 Overview:**
 A scalable e-commerce platform built with microservices architecture, handling millions of transactions with 99.9% uptime.
@@ -81,7 +81,7 @@ A scalable e-commerce platform built with microservices architecture, handling m
 
 #### 📊 **DevOps Monitoring Dashboard**
 
-<img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/034d80c1f5d548a9745fd4e8ace42513a64396d8/fee311f5692b18422a1bcfe7851c80dde1bd6029" width="100%" alt="DevOps Dashboard"/>
+<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/easycad_u2aazj.png" width="100%" alt="DevOps Dashboard"/>
 
 **🎯 Overview:**
 Comprehensive monitoring and alerting system for microservices with real-time metrics and automated incident response.
@@ -117,7 +117,7 @@ Comprehensive monitoring and alerting system for microservices with real-time me
 
 #### 🤖 **AI-Powered Chat Application**
 
-<img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/034d80c1f5d548a9745fd4e8ace42513a64396d8/fee311f5692b18422a1bcfe7851c80dde1bd6029" width="100%" alt="AI Chat App"/>
+<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/ecdax_c3bvtz.png" width="100%" alt="AI Chat App"/>
 
 **🎯 Overview:**
 Intelligent chat application with AI integration, supporting multiple languages and real-time collaboration features.
@@ -152,7 +152,7 @@ Intelligent chat application with AI integration, supporting multiple languages 
 
 #### ☁️ **Cloud Infrastructure Automation**
 
-<img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/034d80c1f5d548a9745fd4e8ace42513a64396d8/fee311f5692b18422a1bcfe7851c80dde1bd6029" width="100%" alt="Cloud Infrastructure"/>
+<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/easycad_u2aazj.png" width="100%" alt="Cloud Infrastructure"/>
 
 **🎯 Overview:**
 Infrastructure as Code solution for automated cloud deployment with multi-region support and disaster recovery.
