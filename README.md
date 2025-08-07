@@ -4,23 +4,11 @@
 
 <div align="center">
 <div align="center">
-  <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .title {
-        font: 600 24px 'JetBrains Mono', monospace;
-        fill: #ffffffff;
-      }
-    </style>
-    <text x="50%" y="30%" class="title" dominant-baseline="middle" text-anchor="middle">
-      Senior Full-Stack &amp; DevOps Engineer
-    </text>
-    <text x="50%" y="55%" class="title" dominant-baseline="middle" text-anchor="middle">
-      11+ Years in Node.js, AWS, Shopify
-    </text>
-    <text x="50%" y="80%" class="title" dominant-baseline="middle" text-anchor="middle">
-      Building Scalable Digital Solutions
-    </text>
-  </svg>
+
+**Senior Full-Stack & DevOps Engineer**  
+11+ Years in Node.js, AWS, Shopify  
+Building Scalable Digital Solutions
+
 </div>
 
 </div>
@@ -106,7 +94,7 @@ Enterprise workforce optimization platform with AI-powered resource allocation a
 </div>
 
 **🔗 Links:**
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://manpower-ui.vercel.app/login)
 
 </td>
 </tr>
@@ -142,8 +130,8 @@ Freelance marketplace connecting service providers with clients through shareabl
 </div>
 
 **🔗 Links:**
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
 
 </td>
 <td width="50%" valign="top">
@@ -177,8 +165,8 @@ Digital knowledge hub with 20,000+ titles featuring AI recommendations and colla
 </div>
 
 **🔗 Links:**
-[![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](YOUR_DOCS_LINK)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://e-library-eight-nu.vercel.app/)
 
 </td>
 </tr>
