@@ -45,31 +45,30 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🛒 **E-Commerce Microservices Platform**
+#### 🗳️ **EasyVote Mobile App**
 
-<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544227/mass_1_yjuo1v.png" width="100%" alt="E-Commerce Platform"/>
+<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/easycad_u2aazj.png"/>
 
-**🎯 Overview:**
-A scalable e-commerce platform built with microservices architecture, handling millions of transactions with 99.9% uptime.
+**🎯 Overview:**  
+Secure voting application enabling organizations to conduct elections with biometric authentication and real-time results.
 
 **✨ Key Features:**
 
-- Real-time inventory management
-- Multi-payment gateway integration
-- Advanced analytics dashboard
-- Mobile-responsive design
-- Auto-scaling infrastructure
+- Biometric voter verification
+- Real-time vote counting
+- Tamper-proof audit logs
+- Offline voting capability
+- Result visualization dashboard
 
 **🛠️ Tech Stack:**
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 </div>
 
@@ -79,31 +78,30 @@ A scalable e-commerce platform built with microservices architecture, handling m
 </td>
 <td width="50%" valign="top">
 
-#### 📊 **DevOps Monitoring Dashboard**
+#### 👥 **Manpower Management Dashboard**
 
-<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/easycad_u2aazj.png" width="100%" alt="DevOps Dashboard"/>
+<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/masdas_sczntg.png" width="100%" alt="Manpower Dashboard"/>
 
-**🎯 Overview:**
-Comprehensive monitoring and alerting system for microservices with real-time metrics and automated incident response.
+**🎯 Overview:**  
+Enterprise workforce optimization platform with AI-powered resource allocation and performance analytics.
 
 **✨ Key Features:**
 
-- Real-time system metrics
-- Automated alert management
-- CI/CD pipeline monitoring
-- Custom dashboard builder
-- Slack/Teams integration
+- Skills matrix visualization
+- Automated shift scheduling
+- Real-time capacity planning
+- Performance benchmarking
+- Compliance tracking
 
 **🛠️ Tech Stack:**
 
 <div align="center">
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
 </div>
 
@@ -115,31 +113,31 @@ Comprehensive monitoring and alerting system for microservices with real-time me
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 **AI-Powered Chat Application**
+#### 💼 **GigAid Mobile App**
 
-<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/ecdax_c3bvtz.png" width="100%" alt="AI Chat App"/>
+<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754547520/image_11_pqxlfp.png" width="100%" alt="GigAid App"/>
 
-**🎯 Overview:**
-Intelligent chat application with AI integration, supporting multiple languages and real-time collaboration features.
+**🎯 Overview:**  
+Freelance marketplace connecting service providers with clients through shareable digital profiles.
 
 **✨ Key Features:**
 
-- OpenAI GPT integration
-- Multi-language support
-- Real-time messaging
-- File sharing & voice notes
-- Smart conversation summaries
+- Dynamic service listings
+- Portfolio showcase
+- Direct booking system
+- Revenue analytics
+- Social media integration
+- Client rating system
 
 **🛠️ Tech Stack:**
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Geolocation](https://img.shields.io/badge/Geolocation-0D9D58?style=flat-square&logo=google-maps&logoColor=white)
 
 </div>
 
@@ -150,31 +148,31 @@ Intelligent chat application with AI integration, supporting multiple languages 
 </td>
 <td width="50%" valign="top">
 
-#### ☁️ **Cloud Infrastructure Automation**
+#### 📚 **E-Library Platform**
 
-<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/easycad_u2aazj.png" width="100%" alt="Cloud Infrastructure"/>
+<img src="https://res.cloudinary.com/dmxgyjetp/image/upload/v1754544226/ecdax_c3bvtz.png" width="100%" alt="E-Library Platform"/>
 
-**🎯 Overview:**
-Infrastructure as Code solution for automated cloud deployment with multi-region support and disaster recovery.
+**🎯 Overview:**  
+Digital knowledge hub with 20,000+ titles featuring AI recommendations and collaborative reading.
 
 **✨ Key Features:**
 
-- Infrastructure as Code (IaC)
-- Multi-cloud deployment
-- Automated scaling
-- Disaster recovery
-- Cost optimization
+- Advanced search with filters
+- Personalized reading lists
+- Multi-format support (PDF/ePub)
+- Social annotation sharing
+- Reading progress sync
+- AI book recommendations
 
 **🛠️ Tech Stack:**
 
 <div align="center">
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
