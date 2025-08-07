@@ -3,9 +3,27 @@
 # 👋 Hello, I'm **INTAJAR ALI**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Senior+Full-Stack+%26+DevOps+Engineer;11%2B+Years+in+Node.js%2C+AWS%2C+Shopify;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+<div align="center">
+  <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .title {
+        font: 600 24px 'JetBrains Mono', monospace;
+        fill: #ffffffff;
+      }
+    </style>
+    <text x="50%" y="30%" class="title" dominant-baseline="middle" text-anchor="middle">
+      Senior Full-Stack &amp; DevOps Engineer
+    </text>
+    <text x="50%" y="55%" class="title" dominant-baseline="middle" text-anchor="middle">
+      11+ Years in Node.js, AWS, Shopify
+    </text>
+    <text x="50%" y="80%" class="title" dominant-baseline="middle" text-anchor="middle">
+      Building Scalable Digital Solutions
+    </text>
+  </svg>
 </div>
 
+</div>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -17,115 +35,160 @@
 
 <div align="center">
 
-## 🎯 **About Me**
+## 🚀 **Featured Projects**
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🚀 **Professional Journey**
+#### 🛒 **E-Commerce Microservices Platform**
 
-**I'm a Senior Full-Stack Developer and DevOps Engineer with 11+ years of expertise in crafting scalable digital solutions. My passion lies in transforming complex business requirements into elegant, high-performance applications.**
+<img src="https://drive.google.com/file/d/1OqHZ-wInkEXKg8i8oN8MIwrosd6UH6Ew/view"/>
 
-**What drives me:**
-- 🎨 Creating seamless user experiences
-- ⚡ Optimizing system performance
-- 🔧 Building robust infrastructure
-- 📈 Scaling applications efficiently
+**🎯 Overview:**
+A scalable e-commerce platform built with microservices architecture, handling millions of transactions with 99.9% uptime.
+
+**✨ Key Features:**
+
+- Real-time inventory management
+- Multi-payment gateway integration
+- Advanced analytics dashboard
+- Mobile-responsive design
+- Auto-scaling infrastructure
+
+**🛠️ Tech Stack:**
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</div>
+
+**🔗 Links:**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💡 **Core Philosophy**
+#### 📊 **DevOps Monitoring Dashboard**
 
-```typescript
-const philosophy = {
-  code: "Clean, maintainable, scalable",
-  approach: "Problem-solving first",
-  mindset: "Continuous learning",
-  goal: "Exceptional user experience"
-};
-```
+<img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/034d80c1f5d548a9745fd4e8ace42513a64396d8/fee311f5692b18422a1bcfe7851c80dde1bd6029" width="100%" alt="DevOps Dashboard"/>
 
-<br/>
+**🎯 Overview:**
+Comprehensive monitoring and alerting system for microservices with real-time metrics and automated incident response.
 
-**Key Strengths:**
-- 🌉 Bridging Dev & Ops seamlessly
-- 🎯 End-to-end solution architecture
-- 🤝 Cross-functional team leadership
-- 🔄 Agile development practices
+**✨ Key Features:**
+
+- Real-time system metrics
+- Automated alert management
+- CI/CD pipeline monitoring
+- Custom dashboard builder
+- Slack/Teams integration
+
+**🛠️ Tech Stack:**
+
+<div align="center">
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+</div>
+
+**🔗 Links:**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 **AI-Powered Chat Application**
+
+<img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/034d80c1f5d548a9745fd4e8ace42513a64396d8/fee311f5692b18422a1bcfe7851c80dde1bd6029" width="100%" alt="AI Chat App"/>
+
+**🎯 Overview:**
+Intelligent chat application with AI integration, supporting multiple languages and real-time collaboration features.
+
+**✨ Key Features:**
+
+- OpenAI GPT integration
+- Multi-language support
+- Real-time messaging
+- File sharing & voice notes
+- Smart conversation summaries
+
+**🛠️ Tech Stack:**
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</div>
+
+**🔗 Links:**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ **Cloud Infrastructure Automation**
+
+<img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/034d80c1f5d548a9745fd4e8ace42513a64396d8/fee311f5692b18422a1bcfe7851c80dde1bd6029" width="100%" alt="Cloud Infrastructure"/>
+
+**🎯 Overview:**
+Infrastructure as Code solution for automated cloud deployment with multi-region support and disaster recovery.
+
+**✨ Key Features:**
+
+- Infrastructure as Code (IaC)
+- Multi-cloud deployment
+- Automated scaling
+- Disaster recovery
+- Cost optimization
+
+**🛠️ Tech Stack:**
+
+<div align="center">
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+**🔗 Links:**
+[![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](YOUR_DOCS_LINK)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
 
 </td>
 </tr>
 </table>
 
----
-
 <br/>
 
-<div align="center">
-
-## 🛠️ **Technology Ecosystem**
-
-</div>
-
-<div align="center">
-
-### **Frontend Arsenal**
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nextjs,vite" />
-
-### **Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,redis,graphql,prisma" />
-
-### **Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git,azure" />
-
-### **E-commerce & Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman,github,gitlab,vercel,netlify" />
-
-<br/>
-
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" />
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🏆 **Professional Impact**
-
-</div>
+### 🏆 **Professional Impact**
 
 <div align="center">
 
@@ -155,10 +218,63 @@ const philosophy = {
 </table>
 
 </div>
+<br/>
+
+### 🎨 **Want to see more projects?**
+
+**🚀 Interested in collaborating? Let's build something amazing together!**
+
+[![Portfolio Website](https://img.shields.io/badge/Visit%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://intajar-ali.dev)
+[![GitHub Repositories](https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intajar-ali?tab=repositories)
 
 ---
 
 <br/>
+
+<div align="center">
+
+## 🛠️ **Technology Ecosystem**
+
+### **Frontend Arsenal**
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nextjs,vite" />
+
+### **Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,redis,graphql,prisma" />
+
+### **Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,nginx,linux,git,azure" />
+
+### **E-commerce & Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman,github,gitlab,vercel,netlify" />
+
+<br/>
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
+</div>
+
+---
+
+<br/>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=intajar-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=intajar-ali&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intajar-ali&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 <div align="center">
 
@@ -171,9 +287,11 @@ const philosophy = {
 <td width="33%" align="center">
 
 ### 🎨 **Frontend Development**
+
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 **Modern Web Applications**
+
 - React & Next.js Development
 - TypeScript Implementation
 - Responsive UI/UX Design
@@ -184,9 +302,11 @@ const philosophy = {
 <td width="33%" align="center">
 
 ### ⚡ **Backend Engineering**
+
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 **Scalable Server Solutions**
+
 - Node.js & Express APIs
 - Microservices Architecture
 - Database Design & Optimization
@@ -197,9 +317,11 @@ const philosophy = {
 <td width="33%" align="center">
 
 ### ☁️ **DevOps & Cloud**
+
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
 **Infrastructure Excellence**
+
 - AWS Cloud Architecture
 - Docker & Kubernetes
 - CI/CD Pipeline Setup
@@ -209,41 +331,6 @@ const philosophy = {
 </td>
 </tr>
 </table>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🎯 **Current Focus Areas**
-
-</div>
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Intajar Ali))
-    Cloud Native
-      Serverless Architecture
-      Microservices
-      Container Orchestration
-    AI Integration
-      Machine Learning APIs
-      Intelligent Automation
-      Data Analytics
-    E-commerce Innovation
-      Headless Commerce
-      Payment Solutions
-      Performance Optimization
-    Team Leadership
-      Technical Mentoring
-      Code Reviews
-      Best Practices
-```
-
-</div>
 
 <br/>
 
@@ -264,7 +351,22 @@ mindmap
 
 </div>
 
+<div align="left">
+
+### 🚀 **Available For**
+
 <div align="center">
+
+<ul align="left">
+  <li><strong>Full-time Opportunities</strong></li>
+  <li><strong>Contract Projects</strong></li>
+  <li><strong>Technical Consulting</strong></li>
+  <li><strong>Architecture Reviews</strong></li>
+  <li><strong>Team Mentoring</strong></li>
+  <li><strong>Code Audits</strong></li>
+</ul>
+
+</div>
 
 <table>
 <tr>
@@ -293,63 +395,11 @@ mindmap
 
 <br/>
 
-<div align="center">
-
-### 🚀 **Available For**
-
-**Full-time Opportunities** • **Contract Projects** • **Technical Consulting**  
-**Architecture Reviews** • **Team Mentoring** • **Code Audits**
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🎮 **Beyond Code**
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-
-</div>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🌱 **Currently Learning**
-- **AI/ML Integration** in web apps
-- **Blockchain** development
-- **Edge Computing** solutions
-- **Advanced Kubernetes** patterns
-
-</td>
-<td width="50%" align="center">
-
-### 🎯 **Personal Interests**
-- **🎮 Gaming** & tech reviews
-- **📚 Technical Writing** & blogging
-- **🌍 Open Source** contributions
-- **🤝 Developer Community** building
-
-</td>
-</tr>
-</table>
-
----
-
-<br/>
-
-<div align="center">
-
 ### 💭 **Developer Wisdom**
 
-*"The best code is not just functional—it's elegant, maintainable, and tells a story."*
+<div align="center">
+
+_"The best code is not just functional—it's elegant, maintainable, and tells a story."_
 
 <br/>
 
@@ -357,26 +407,5 @@ mindmap
 
 </div>
 
----
-
-<br/>
-
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### 🤝 **Ready to Transform Your Ideas into Reality?**
-
-**Let's discuss how my 11+ years of expertise can accelerate your next project!**
-
 <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/YourGitHubUsername)
-[![Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/YourGitHubUsername?tab=followers)
-[![Stars](https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/YourGitHubUsername?tab=repositories)
-
-<br/>
-
-⭐ **Star some repositories if you find them interesting!** ⭐
-
-</div>
