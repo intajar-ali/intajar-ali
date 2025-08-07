@@ -73,7 +73,7 @@ Secure voting application enabling organizations to conduct elections with biome
 </div>
 
 **🔗 Links:**
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +134,7 @@ Freelance marketplace connecting service providers with clients through shareabl
 <div align="center">
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![Geolocation](https://img.shields.io/badge/Geolocation-0D9D58?style=flat-square&logo=google-maps&logoColor=white)
@@ -222,7 +222,7 @@ Digital knowledge hub with 20,000+ titles featuring AI recommendations and colla
 
 **🚀 Interested in collaborating? Let's build something amazing together!**
 
-[![Portfolio Website](https://img.shields.io/badge/Visit%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://intajar-ali.dev)
+[![Contact Me](https://img.shields.io/badge/Contact%20me-FF5722?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![GitHub Repositories](https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intajar-ali?tab=repositories)
 
 ---
@@ -372,20 +372,12 @@ Digital knowledge hub with 20,000+ titles featuring AI recommendations and colla
 
 ### 📬 **Get In Touch**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) -->
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliintajar020@gmail.com)
 
 </td>
-<td align="center">
 
-### 💼 **Collaboration**
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Calendly](https://img.shields.io/badge/Schedule_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/your-calendly)
-
-</td>
 </tr>
 </table>
 
